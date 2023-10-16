@@ -6,7 +6,13 @@ description: > # your text below (remove <br> elements if you don't need line br
   Passionate about provide a deeper understanding problem and translating to insights for decision making process in e-commerce and fintech industry. Have an excellent interpersonal skill, agile, eager to learn new things and grow more. 
   <br><br>
   <a href="https://www.linkedin.com/in/satriabagaskara">View My LinkedIn Profile</a> 
-  
+
+# Author/Organization info to be displayed in the templates
+author:
+  name: Office of the Chief Technology Officer
+  url: https://www.linkedin.com/in/satriabagaskara
+
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
